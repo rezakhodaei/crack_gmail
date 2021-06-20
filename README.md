@@ -25,9 +25,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Mohammadjan1122/crack_gmail
-
-
+git clone https://github.com/rezakhodaei747/crack_gmail
 
 cd crack_gmail
 
